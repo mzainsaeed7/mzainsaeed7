@@ -11,7 +11,7 @@
 
 ## About
 
-Results-driven Mobile App Developer with 5+ years of experience building production-ready applications. Specialized in Flutter and cross-platform development with expertise in backend architecture, real-time systems, and cloud solutions. Passionate about clean code, exceptional UX, and scalable architecture.
+I am a Mobile App Developer with a primary focus on Flutter, building polished and high performance Android and iOS apps. Alongside mobile development, I also work as a Full-Stack Developer, handling backend APIs with Node.js and Next.js, and building complete web solutions. I enjoy turning ideas into end-to-end products with clean, maintainable code and scalable architecture.
 
 ---
 
@@ -44,29 +44,6 @@ Results-driven Mobile App Developer with 5+ years of experience building product
 
 ---
 
-## Core Expertise
-
-### Mobile Development
-- Cross-platform apps with smooth animations and native performance
-- Offline-first architecture and data synchronization
-- Biometric and secure authentication systems
-- Push notifications and real-time features
-- Performance optimization and startup time reduction
-
-### Backend & Cloud
-- Microservices design and RESTful API development
-- Real-time WebSocket communication (Socket.io)
-- Database optimization (Redis caching, query optimization)
-- CI/CD pipelines and automated testing suites
-- Cloud deployment and monitoring (Firebase, AWS)
-
-### Advanced Features
-- AI-driven recommendations and analytics
-- Location-aware experiences and live tracking
-- Payment and financial integrations
-- Real-time dashboards and data visualization
-
----
 
 ## Featured Project
 
