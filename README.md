@@ -58,17 +58,7 @@ Community Safety Intelligence Platform with smart incident management and real-t
 
 ---
 
-## Professional Experience
-
-| Position | Company | Period |
-|----------|---------|--------|
-| Mobile Application Developer | TekRevol Pakistan | Jan 2024 – Present |
-| Flutter Developer | TekRevol Pakistan | Feb 2022 – Jan 2024 |
-| Senior Flutter Developer | Odd Technologies | Apr 2021 – Jan 2022 |
-| Flutter Developer | Odd Technologies | Mar 2020 – Apr 2021 |
-| Android Developer | TechRise | Mar 2019 – Feb 2020 |
-
----
+ 
 
 ## What I'm Open To
 
